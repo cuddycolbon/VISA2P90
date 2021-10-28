@@ -1,0 +1,6 @@
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+ti1,Life Altering Moment,image/jpg,ti1.jpg,2021,subject 1; Another Subject,"PetSmart London, ON",43.18615,-79.2403,A city in the Niagara Region
+ti2,Adam's Pickles,image/jpg,ti2.jpg,2021,Subject 2; Yet More subject,New York City,43.1525,-79.23373,A park in the city
+ti3,Tony Hawk Supremacy,image/jpg,ti3.jpg,2021,,Skatepark,,,
+ti4,Spinal Injury,image/PNG,ti4.PNG,2021,,"Lawrencetown, NS",,,
+ti5,Street Cat,image/jpg,ti5.jpg,2021,,"Halifax, NS",,,
